@@ -5,6 +5,7 @@ const Header = () => {
     <>
       <div className="header">
         <h2 className="h2">Keep Notes</h2>
+        <h3>This is my new change</h3>
       </div>
     </>
   );
